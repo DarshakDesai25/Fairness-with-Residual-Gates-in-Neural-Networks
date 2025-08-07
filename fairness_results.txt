@@ -1,0 +1,14 @@
+
+Adult Income Dataset - Fairness Comparison
+
+Model: MLP (No Residual Gate)
+Accuracy: 0.7464
+Statistical Parity Difference: 0.000
+Mean Difference: 0.000
+Disparate Impact: NaN
+
+Model: Gated MLP (With Residual Gate)
+Accuracy: 0.7534
+Statistical Parity Difference: 0.0123
+Mean Difference: 0.0123
+Disparate Impact: inf
